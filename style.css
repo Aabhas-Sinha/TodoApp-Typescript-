@@ -1,0 +1,30 @@
+.Right{
+    float: right;
+}
+
+.newItem{
+    background-color: lightblue;
+    font-size: 20px;
+    font-family: "Gill Sans MT";
+}
+
+.Vertical {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Horizontal {
+    margin-left: 50px;
+    margin-right: 15px;
+
+}
+
+div.StatusACTIVE {
+    color: blue;
+}
+
+div.StatusCOMPLETE {
+    color: green;
+    text-decoration: line-through;
+}
